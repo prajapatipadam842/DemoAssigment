@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - ObjectMapper (3.5.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 5.13)
+  - ObjectMapper
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - ObjectMapper
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 8e336c7cd43aadb3762cd86587fda6c7878657e9
+
+COCOAPODS: 1.9.0.beta.1
